@@ -1,0 +1,186 @@
+{
+  "panel": {
+    "id": "pancreatic-cancer",
+    "name": "Pancreatic Cancer",
+    "description": "Comprehensive pancreatic cancer panel with immune microenvironment",
+    "version": "1.0",
+    "geneCount": 388,
+    "categories": {
+      "epithelial": {
+        "name": "Epithelial cells",
+        "color": "#c56cf0"
+      },
+      "ductal": {
+        "name": "Ductal epithelium",
+        "color": "#dc7633"
+      },
+      "acinar": {
+        "name": "Acinar cells",
+        "color": "#ca6f1e"
+      },
+      "endocrine": {
+        "name": "Endocrine pancreas",
+        "color": "#d35400"
+      },
+      "t-cell": {
+        "name": "T lymphocyte markers",
+        "color": "#ff6348"
+      },
+      "b-cell": {
+        "name": "B lymphocyte markers",
+        "color": "#48dbfb"
+      },
+      "nk-cell": {
+        "name": "Natural killer cell markers",
+        "color": "#5f27cd"
+      },
+      "myeloid": {
+        "name": "Myeloid lineage markers",
+        "color": "#00a0dc"
+      },
+      "vascular": {
+        "name": "Blood vessels and lymphatics",
+        "color": "#0066cc"
+      },
+      "stromal": {
+        "name": "Stromal, fibroblast, smooth muscle",
+        "color": "#00c7be"
+      },
+      "ecm-remodeling": {
+        "name": "ECM & matrix remodeling",
+        "color": "#7f8c8d"
+      },
+      "proliferation": {
+        "name": "Cell cycle & replication",
+        "color": "#feca57"
+      },
+      "metabolism": {
+        "name": "Metabolic processes",
+        "color": "#f7b731"
+      },
+      "signaling": {
+        "name": "Oncogenic & pathway signaling",
+        "color": "#54a0ff"
+      },
+      "immune-regulation": {
+        "name": "Checkpoints, MHC, cytokines/chemokines",
+        "color": "#ff6b6b"
+      }
+    },
+    "genes": [
+      {
+        "symbol": "ABCG2",
+        "name": "ATP binding cassette subfamily G member 2",
+        "tags": [
+          "epithelial",
+          "signaling"
+        ],
+        "annotation": "Drug resistance transporter"
+      },
+      {
+        "symbol": "AEBP1",
+        "name": "AE binding protein 1",
+        "tags": [
+          "stromal"
+        ],
+        "annotation": "Adipocyte enhancer protein"
+      },
+      {
+        "symbol": "AGR2",
+        "name": "Anterior gradient 2",
+        "tags": [
+          "ductal"
+        ],
+        "annotation": "ER stress response, PDAC marker"
+      },
+      {
+        "symbol": "AGR3",
+        "name": "Anterior gradient 3",
+        "tags": [
+          "ductal"
+        ],
+        "annotation": "ER stress response protein"
+      },
+      {
+        "symbol": "AKT1",
+        "name": "AKT serine/threonine kinase 1",
+        "tags": [
+          "signaling"
+        ],
+        "annotation": "PI3K/AKT pathway"
+      },
+      {
+        "symbol": "ALB",
+        "name": "Albumin",
+        "tags": [
+          "metabolism"
+        ],
+        "annotation": "Major plasma protein"
+      },
+      {
+        "symbol": "AMBP",
+        "name": "Alpha-1-microglobulin/bikunin precursor",
+        "tags": [
+          "metabolism"
+        ],
+        "annotation": "Protease inhibitor"
+      },
+      {
+        "symbol": "AMY2B",
+        "name": "Amylase alpha 2B",
+        "tags": [
+          "metabolism"
+        ],
+        "annotation": "Pancreatic amylase"
+      },
+      {
+        "symbol": "ANXA3",
+        "name": "Annexin A3",
+        "tags": [
+          "signaling"
+        ],
+        "annotation": "Calcium-dependent phospholipid binding"
+      },
+      {
+        "symbol": "ANXA4",
+        "name": "Annexin A4",
+        "tags": [
+          "signaling"
+        ],
+        "annotation": "Membrane-cytoskeleton anchor"
+      },
+      {
+        "symbol": "APOD",
+        "name": "Apolipoprotein D",
+        "tags": [
+          "metabolism"
+        ],
+        "annotation": "Lipid transport protein"
+      },
+      {
+        "symbol": "APOE",
+        "name": "Apolipoprotein E",
+        "tags": [
+          "metabolism"
+        ],
+        "annotation": "Lipid metabolism"
+      },
+      {
+        "symbol": "AQP3",
+        "name": "Aquaporin 3",
+        "tags": [
+          "epithelial"
+        ],
+        "annotation": "Water and glycerol channel"
+      },
+      {
+        "symbol": "AREG",
+        "name": "Amphiregulin",
+        "tags": [
+          "signaling"
+        ],
+        "annotation": "EGFR ligand"
+      }
+    ]
+  }
+}
