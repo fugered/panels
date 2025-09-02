@@ -1,7 +1,7 @@
 {
   "panel": {
     "id": "lung-cancer",
-    "name": "Lung Cancer",
+    "name": "Human Lung",
     "description": "Comprehensive lung cancer and tumor microenvironment panel",
     "version": "2.0",
     "geneCount": 290,
