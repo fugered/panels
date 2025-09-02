@@ -1,7 +1,7 @@
 {
   "panel": {
     "id": "skin",
-    "name": "Skin",
+    "name": "Human Skin",
     "description": "Comprehensive skin panel with immune microenvironment",
     "version": "1.0",
     "geneCount": 348,
