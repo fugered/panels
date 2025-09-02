@@ -1,7 +1,7 @@
 {
   "panel": {
     "id": "colon-cancer",
-    "name": "Colon Cancer",
+    "name": "Human Colon",
     "description": "Comprehensive colon cancer and tumor microenvironment panel",
     "version": "2.0",
     "geneCount": 317,
