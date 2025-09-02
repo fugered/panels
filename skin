@@ -1,0 +1,96 @@
+{
+  "panel": {
+    "id": "skin",
+    "name": "Skin",
+    "description": "Comprehensive skin panel with immune microenvironment",
+    "version": "1.0",
+    "geneCount": 348,
+    "categories": {
+      "keratinocyte": {
+        "name": "Keratinocytes",
+        "color": "#cd853f"
+      },
+      "melanocyte": {
+        "name": "Melanocytes",
+        "color": "#8b4513"
+      },
+      "sebaceous": {
+        "name": "Sebaceous glands",
+        "color": "#f4a460"
+      },
+      "sweat": {
+        "name": "Sweat glands",
+        "color": "#daa520"
+      },
+      "hair": {
+        "name": "Hair follicle",
+        "color": "#8fbc8f"
+      },
+      "cornification": {
+        "name": "Barrier & cornification",
+        "color": "#deb887"
+      },
+      "dermal": {
+        "name": "Dermal components",
+        "color": "#20b2aa"
+      },
+      "epithelial": {
+        "name": "Epithelial cells",
+        "color": "#c56cf0"
+      },
+      "stromal": {
+        "name": "Stromal, fibroblast, smooth muscle",
+        "color": "#00c7be"
+      },
+      "vascular": {
+        "name": "Blood vessels and lymphatics",
+        "color": "#0066cc"
+      },
+      "t-cell": {
+        "name": "T lymphocyte markers",
+        "color": "#ff6348"
+      },
+      "b-cell": {
+        "name": "B lymphocyte markers",
+        "color": "#48dbfb"
+      },
+      "nk-cell": {
+        "name": "Natural killer cell markers",
+        "color": "#5f27cd"
+      },
+      "myeloid": {
+        "name": "Myeloid lineage markers",
+        "color": "#00a0dc"
+      },
+      "mastcell": {
+        "name": "Mast cells",
+        "color": "#ff9ff3"
+      },
+      "immune-regulation": {
+        "name": "Checkpoints, cytokines, MHC",
+        "color": "#ff6b6b"
+      },
+      "ecm-remodeling": {
+        "name": "ECM & matrix remodeling",
+        "color": "#7f8c8d"
+      },
+      "proliferation": {
+        "name": "Cell cycle & replication",
+        "color": "#feca57"
+      },
+      "metabolism": {
+        "name": "Metabolic processes",
+        "color": "#f7b731"
+      },
+      "signaling": {
+        "name": "Oncogenic & pathway signaling",
+        "color": "#54a0ff"
+      },
+      "stem-progenitor": {
+        "name": "Stem and progenitor markers",
+        "color": "#9b59b6"
+      }
+    },
+    "genes": "FULL_GENE_LIST_WITH_CONSOLIDATED_TAGS"
+  }
+}
