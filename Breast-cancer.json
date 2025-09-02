@@ -368,3 +368,6 @@
       {"symbol": "VIM", "name": "Vimentin", "tags": ["stromal"], "annotation": "Intermediate filament, mesenchymal marker"},
       {"symbol": "VWF", "name": "Von Willebrand factor", "tags": ["vascular"], "annotation": "Endothelial/platelet adhesion protein"},
       {"symbol": "WARS1", "name": "Tryptophanyl-tRNA synthetase 1", "tags": ["immune"], "annotation": "Interferon-γ induced enzyme"}
+    ]
+  }
+}
