@@ -1,7 +1,7 @@
 {
   "panel": {
     "id": "breast-cancer",
-    "name": "Breast Cancer",
+    "name": "Human Breast",
     "description": "Comprehensive breast cancer and tumor microenvironment panel",
     "version": "2.0",
     "geneCount": 307,
