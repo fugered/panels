@@ -1,7 +1,7 @@
 {
   "panel": {
     "id": "kidney-cancer",
-    "name": "Kidney Cancer",
+    "name": "Human Kidney",
     "description": "Comprehensive kidney cancer and tumor microenvironment panel",
     "version": "2.0",
     "geneCount": 305,
