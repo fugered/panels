@@ -1,7 +1,7 @@
 {
   "panel": {
     "id": "pancreatic-cancer",
-    "name": "Pancreas",
+    "name": "Human Pancreas",
     "description": "Comprehensive pancreatic cancer panel with immune microenvironment",
     "version": "1.0",
     "geneCount": 401,
