@@ -4,7 +4,7 @@
     "name": "Human Skin",
     "description": "Comprehensive skin panel with immune microenvironment",
     "version": "1.0",
-    "geneCount": 348,
+    "geneCount": 352,
     "categories": {
       "skin": {
         "name": "Skin-specific markers",
@@ -467,7 +467,11 @@
       {"symbol": "VEGFA", "name": "Vascular endothelial growth factor A", "tags": ["vascular", "signaling"], "annotation": "VEGF"},
       {"symbol": "VIM", "name": "Vimentin", "tags": ["stromal"], "annotation": "Mesenchymal intermediate filament"},
       {"symbol": "VWF", "name": "Von Willebrand factor", "tags": ["vascular"], "annotation": "Endothelial and platelet protein"},
-      {"symbol": "WARS1", "name": "Tryptophanyl-tRNA synthetase 1", "tags": ["immune", "metabolism"], "annotation": "IFN-γ induced enzyme"}
+      {"symbol": "WARS1", "name": "Tryptophanyl-tRNA synthetase 1", "tags": ["immune", "metabolism"], "annotation": "IFN-γ induced enzyme"},
+      {"symbol": "FAP", "name": "Fibroblast activation protein alpha", "tags": ["stromal"], "annotation": "Cancer-associated fibroblast marker"},
+      {"symbol": "PDK4", "name": "Pyruvate dehydrogenase kinase 4", "tags": ["metabolism"], "annotation": "Glucose metabolism regulator"},
+      {"symbol": "LARS1", "name": "Leucyl-tRNA synthetase 1", "tags": ["metabolism"], "annotation": "Protein synthesis enzyme"},
+      {"symbol": "MAPK1", "name": "Mitogen-activated protein kinase 1", "tags": ["signaling"], "annotation": "ERK2, MAPK pathway kinase"}
     ]
   }
 }
