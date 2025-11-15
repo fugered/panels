@@ -4,7 +4,7 @@
     "name": "Human Breast",
     "description": "Comprehensive breast cancer and tumor microenvironment panel",
     "version": "2.0",
-    "geneCount": 307,
+    "geneCount": 308,
     "includes": ["io-stromal-base"],
     "categories": {
       "immune": {
@@ -367,7 +367,8 @@
       {"symbol": "VEGFA", "name": "Vascular endothelial growth factor A", "tags": ["vascular"], "annotation": "Primary angiogenic factor"},
       {"symbol": "VIM", "name": "Vimentin", "tags": ["stromal"], "annotation": "Intermediate filament, mesenchymal marker"},
       {"symbol": "VWF", "name": "Von Willebrand factor", "tags": ["vascular"], "annotation": "Endothelial/platelet adhesion protein"},
-      {"symbol": "WARS1", "name": "Tryptophanyl-tRNA synthetase 1", "tags": ["immune"], "annotation": "Interferon-γ induced enzyme"}
+      {"symbol": "WARS1", "name": "Tryptophanyl-tRNA synthetase 1", "tags": ["immune"], "annotation": "Interferon-γ induced enzyme"},
+      {"symbol": "CTTN", "name": "Cortactin", "tags": ["epithelial"], "annotation": "Actin-binding cytoskeletal protein, cell motility and invasion marker"}
     ]
   }
 }
