@@ -4,7 +4,7 @@
     "name": "Human Colon",
     "description": "Comprehensive colon cancer and tumor microenvironment panel",
     "version": "2.0",
-    "geneCount": 317,
+    "geneCount": 318,
     "includes": ["io-stromal-base"],
     "categories": {
       "immune": {
@@ -352,6 +352,7 @@
       {"symbol": "SNCG", "name": "Synuclein gamma", "tags": ["signaling"], "annotation": "Gamma-synuclein, neuronal protein"},
       {"symbol": "SOX10", "name": "SRY-box transcription factor 10", "tags": ["signaling"], "annotation": "Neural crest transcription factor"},
       {"symbol": "STAT1", "name": "Signal transducer and activator of transcription 1", "tags": ["signaling"], "annotation": "Interferon signaling transcription factor"},
+      {"symbol": "STAT3", "name": "Signal transducer and activator of transcription 3", "tags": ["signaling"], "annotation": "JAK/STAT pathway transcription factor"},
       {"symbol": "STAT4", "name": "Signal transducer and activator of transcription 4", "tags": ["immune", "t-cell"], "annotation": "Th1 differentiation transcription factor"},
       {"symbol": "STC1", "name": "Stanniocalcin 1", "tags": ["signaling"], "annotation": "Calcium and phosphate regulation"},
       {"symbol": "TAGLN", "name": "Transgelin", "tags": ["stromal"], "annotation": "SM22-alpha, smooth muscle marker"},
